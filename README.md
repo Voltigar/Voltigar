@@ -18,6 +18,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
   <img src="https://skillicons.dev/icons?i=arduino" height="40"/>
 </p>
+- 🤖 Godot Game Engine
 
 ---
 
@@ -31,6 +32,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=lua" height="40"/> - Scripting  
 </p>
+-  🐉 Ghidra - Reverse engineering
 
 ---
 
