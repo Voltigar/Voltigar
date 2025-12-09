@@ -31,6 +31,7 @@
   <img src="https://skillicons.dev/icons?i=c" height="40"/> - Comprendre le bas niveau & mémoire / Recompilation de jeu console pour Windows & Linux 
   <br/>
   <img src="https://skillicons.dev/icons?i=lua" height="40"/> - Scripting
+  <br/>
   <img src="https://skillicons.dev/icons?i=arduino" height="40"/> - Projets électroniques plus complexes / Robotique
 </p>
 🐉 <strong>Ghidra</strong>  - Reverse Engineering 
