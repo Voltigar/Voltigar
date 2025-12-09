@@ -19,6 +19,7 @@
   <img src="https://skillicons.dev/icons?i=arduino" height="40"/>
 </p>
 - 🤖 Godot Game Engine
+- 💻 Espressif boards - ESP32 / iot
 
 ---
 
@@ -33,6 +34,7 @@
   <img src="https://skillicons.dev/icons?i=lua" height="40"/> - Scripting  
 </p>
 -  🐉 Ghidra - Reverse engineering
+- 💻 Espressif boards - Complex electronics projects
 
 ---
 
