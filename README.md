@@ -19,7 +19,6 @@
   <img src="https://skillicons.dev/icons?i=arduino" height="40"/>
   <img src="https://skillicons.dev/icons?i=godot" height="40"/>
 </p>
-- 💻 Espressif boards - ESP32 / iot
 
 ---
 
@@ -27,14 +26,15 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40"/> - Jeu vidéo avec Unity  
   <br/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="40"/> - Créer mon moteur de jeu / Recompilation de jeu console pour Windows & Linux 
+  <img src="https://skillicons.dev/icons?i=cpp" height="40"/> - Unreal Engine / Créer mon moteur de jeu / Recompilation de jeu console pour Windows & Linux 
   <br/>
   <img src="https://skillicons.dev/icons?i=c" height="40"/> - Comprendre le bas niveau & mémoire / Recompilation de jeu console pour Windows & Linux 
   <br/>
   <img src="https://skillicons.dev/icons?i=lua" height="40"/> - Scripting
   <img src="https://skillicons.dev/icons?i=ghidra" height="40"/>  - Reverse Engineering 
+  <img src="https://skillicons.dev/icons?i=arduino" height="40"/> - Projets électroniques plus complexes / Robotique
 </p>
-- 💻 Espressif boards - Complex electronics projects
+
 
 ---
 
@@ -46,8 +46,8 @@
 ---
 
 ## 🔮 **Futurs projets**
-- 🎮 **C++ Game Engine** — Moteur de jeu open-source  
-- 🎮 **Xbox 360 / PS2 Recompiler** — Recompilation de jeux vers Windows & Linux  
+- 🎮 **C++ Game Engine** — Moteur de jeu custom 
+- 🎮 **Xbox 360 / PS2 / Other game console Recompiler** — Recompilation de jeux vers Windows & Linux  
 
 ---
 
@@ -56,5 +56,5 @@
   <a href="https://discordapp.com/users/voltigar." target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="40px">
   </a>
-  <!-- Ajoute d’autres réseaux ici -->
+  <!-- Ajouter d’autres réseaux ici -->
 </p>
