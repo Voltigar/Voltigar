@@ -33,7 +33,8 @@
   <img src="https://skillicons.dev/icons?i=lua" height="40"/> - Scripting
   <img src="https://skillicons.dev/icons?i=arduino" height="40"/> - Projets électroniques plus complexes / Robotique
 </p>
-🐉 <strong>Ghidra</strong>  - Reverse
+🐉 <strong>Ghidra</strong>  - Reverse Engineering 
+
 ---
 
 ## 💼 **Projets en cours**
