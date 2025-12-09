@@ -9,7 +9,7 @@
 ## 🚀 **Technologies que j'utilise**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=PyQt" height="40"/>
+  <img src="https://skillicons.dev/icons?i=qt" height="40"/>
   <img src="https://skillicons.dev/icons?i=cs" height="40"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
   <img src="https://skillicons.dev/icons?i=html" height="40"/>
@@ -17,8 +17,8 @@
   <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
   <img src="https://skillicons.dev/icons?i=arduino" height="40"/>
+  <img src="https://skillicons.dev/icons?i=godot" height="40"/>
 </p>
-- 🤖 Godot Game Engine
 - 💻 Espressif boards - ESP32 / iot
 
 ---
@@ -31,9 +31,9 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=c" height="40"/> - Comprendre le bas niveau & mémoire / Recompilation de jeu console pour Windows & Linux 
   <br/>
-  <img src="https://skillicons.dev/icons?i=lua" height="40"/> - Scripting  
+  <img src="https://skillicons.dev/icons?i=lua" height="40"/> - Scripting
+  <img src="https://skillicons.dev/icons?i=ghidra" height="40"/>  - Reverse Engineering 
 </p>
--  🐉 Ghidra - Reverse engineering
 - 💻 Espressif boards - Complex electronics projects
 
 ---
